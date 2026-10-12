@@ -92,7 +92,6 @@ The pipeline was benchmarked using [RAGAS](https://github.com/explodinggradients
 ```text
 ├── assets/
 │   └── screenshots/           # UI screenshots for documentation
-├── full_contract_pdf/         # Raw legal contract PDFs (Part_I)
 ├── src/
 │   ├── __init__.py
 │   ├── document_loader.py     # PDF parsing with PyMuPDF4LLM & OCR fallback
